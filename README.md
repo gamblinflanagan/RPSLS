@@ -8,7 +8,8 @@ python
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/RPSLS/`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/RPSLS.git`
 * `run the file RPSLS.py in any python IDE`
 
 ### To Run In Linux/Unix Command Line:
